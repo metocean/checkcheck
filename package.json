@@ -1,0 +1,22 @@
+{
+  "name": "checkcheck",
+  "version": "0.1.0",
+  "description": "Build a validator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/metocean/checkcheck.git"
+  },
+  "keywords": [
+    "validator"
+  ],
+  "author": "Thomas Coats <t.coats@metocean.co.nz>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/metocean/checkcheck/issues"
+  },
+  "homepage": "https://github.com/metocean/checkcheck#readme"
+}
